@@ -1,0 +1,10 @@
+[submodule "dex_retargeting"]
+	path = dex_retargeting
+	url = https://github.com/dexsuite/dex-retargeting.git
+	branch = main
+
+[submodule "LEAP_Hand_API"]
+	path = LEAP_Hand_API
+	url = https://github.com/leap-hand/LEAP_Hand_API.git
+	branch = main
+
