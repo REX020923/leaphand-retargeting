@@ -26,6 +26,10 @@ Activate virtual enviromeny.
 source .venv/bin/activate
 ```
 
+## Run Real time retargeting
+```
+python Leap_Hand_real_time_retarget.py
+```
 
 
 
