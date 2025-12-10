@@ -1,0 +1,30 @@
+{
+    
+    "version": "0.2.0",
+    "configurations": [
+
+        {
+            "name": "real_time_retarget",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "${workspaceFolder}/dex_retargeting/example/vector_retargeting/show_realtime_retargeting.py",
+            "python": "${workspaceFolder}/.venv/bin/python",
+            "justMyCode": false,
+            "args": [
+                "--robot-name=leap",
+                "--retargeting-type=dexpilot",
+                "--hand-type=right"
+
+            ],
+        },
+        {
+            "name": "leap_hand_real_time_retarget",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "${workspaceFolder}/Leap_Hand_real_time_retarget.py",
+            "python": "${workspaceFolder}/.venv/bin/python",
+            "justMyCode": false,
+        },
+
+    ]
+}
