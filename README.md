@@ -28,6 +28,7 @@ source .venv/bin/activate
 
 ## Run Real time retargeting
 ```
+sudo chmod 777 /dev/serial/by-id/*
 python Leap_Hand_real_time_retarget.py
 ```
 
