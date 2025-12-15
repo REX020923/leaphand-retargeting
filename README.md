@@ -2,7 +2,7 @@
 
 Clone the project:
 ```
-git clone https://github.com/Nizhenhao-3/Leaphand_retarget.git
+git clone https://github.com/REX020923/leaphand-retargeting.git
 ```
 
 This repository contains submodules.
